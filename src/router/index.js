@@ -1,5 +1,6 @@
 import Vue from 'vue';
 import Router from 'vue-router';
+import '../assets/fonts/iconfont';
 
 Vue.use(Router);
 
